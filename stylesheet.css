@@ -20,8 +20,9 @@ h1 {
 
 }
 
-h2 {
-
+h4 {
+	text-decoration: underline;
+	font-weight: bold;
 }
 
 .bold {
