@@ -1,0 +1,12 @@
+/*	stylesheet.css
+		a simple stylesheet for my website
+	COMP20: Web Programming
+	Assignment 1
+	Sam Testa
+	Spring 2019	*/
+
+img {
+	text-align: center;
+	width: 30%;
+	padding: 50px;
+}
