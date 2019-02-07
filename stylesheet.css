@@ -5,6 +5,11 @@
 	Sam Testa
 	Spring 2019	*/
 
+body {
+	background-color: #C6DEFF;
+	font-family: "Garamond";
+}
+
 img {
 	text-align: center;
 	width: 30%;
