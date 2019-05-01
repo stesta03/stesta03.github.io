@@ -3227,6 +3227,19 @@ input, select, textarea {
 				padding: 6em 0 6em 0 ;
 			}
 
+		/* One */
+
+			#one {
+				text-align: center;
+			}
+
+		/* Two */
+
+			#two {
+				text-align: center;
+			}
+
+
 	}
 
 /* Large */
@@ -3281,6 +3294,18 @@ input, select, textarea {
 			#footer {
 				padding: 4em 0 4em 0 ;
 				background-attachment: scroll;
+			}
+
+		/* One */
+
+			#one {
+				text-align: center;
+			}
+
+		/* Two */
+
+			#two {
+				text-align: center;
 			}
 
 	}
